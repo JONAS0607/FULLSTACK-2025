@@ -1,3 +1,3 @@
-# EXPLORER aqui é no main
+# EXPLORER
 
-## GIT AULA
+## PROJETO 01
