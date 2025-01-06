@@ -38,3 +38,13 @@ Neste vídeo, começamos um projeto criando uma nova pasta chamada "projeto" no 
 [Commit da aula](https://github.com/rocketseat-education/pagina-receita/tree/fe068e2632faad4d3e5b5741165cf61929c2bb3e)
 
 Neste vídeo, vamos ver como estruturar um documento HTML a partir de um layout de design.
+
+## `AULA 05` *Adicionando imagens e estilos*
+
+[Commit da aula Clone](https://github.com/rocketseat-education/pagina-receita.git)
+
+Nesta aula, aprendemos a baixar e organizar imagens em uma pasta de assets para um projeto web. Utilizamos o Figma para exportar as imagens nos formatos JPG e PNG, discutindo as vantagens e desvantagens de cada um. Em seguida, integramos as imagens ao código HTML e iniciamos o estilo CSS, aplicando um border-radius. Finalizamos a aula fazendo o primeiro commit no Git, ignorando arquivos desnecessários e adicionando imagens e estilos ao repositório.
+
+## `AULA 06` *Imagem de fundo e container page*
+
+Nesta aula, aprendemos a adicionar uma imagem de fundo com CSS e a organizar a página para visualização adequada. Utilizamos a propriedade background-image para inserir a imagem, ajustamos o tamanho com background-size, e alinhamos a imagem centralizando-a. Também exploramos detalhes como padding, largura, cor de fundo e arredondamento de borda. Ajustamos a largura da caixa para 800 pixels e corrigimos a soma dos paddings com box-sizing: border-box.
