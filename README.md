@@ -57,3 +57,7 @@ Neste trecho, trabalhamos com a adição de fontes no Figma e no código HTML. F
 ## `AULA 08` *Personalizando espaços*
 
 Neste trecho, trabalhamos com espaços no CSS. Zeramos as margens e preenchimentos, ajustamos os espaços entre elementos como h1, p e ul, e exploramos a definição de line height. Experimentamos diferentes ajustes e discutimos a importância de testar e ajustar conforme necessário. Também abordamos o uso do Git e a importância de adicionar arquivos ao Stage Area antes de confirmar as alterações. A aula focou em personalizar e ajustar espaços no design de uma página web.
+
+## `AULA 09` *Adicionando o rodapé*
+
+Nesta aula, trabalhamos na criação de um footer. Ajustamos o alinhamento do texto e do ícone SVG, explicando a importância desse formato para manter a qualidade da imagem ao dar zoom. Demonstramos o uso do vertical-align para alinhar o ícone verticalmente, mas mencionamos que o flex é mais comum profissionalmente.
