@@ -2,6 +2,7 @@
 
 ## `AULA 01` *O Projeto no Figma*
 
+[Figma do projeto](https://www.figma.com/design/5O3TudHA0xMAy0hg5Gbft6/P%C3%A1gina-de-receita-(Community)?node-id=3-811&m=dev&t=D7V28bEM3jtHlSZM-1)
 Nesta aula, foi mostrado como acessar o Figma, adicionar contas, duplicar projetos e navegar entre páginas. Também foi explicado sobre o modo de código e o style guide, que contém informações sobre cores, fontes e estilos. O instrutor destacou a importância de entender o style guide para iniciar o estilo do projeto.
 
 ## `AULA 02` *Customizando o VSCode*
@@ -48,3 +49,11 @@ Nesta aula, aprendemos a baixar e organizar imagens em uma pasta de assets para 
 ## `AULA 06` *Imagem de fundo e container page*
 
 Nesta aula, aprendemos a adicionar uma imagem de fundo com CSS e a organizar a página para visualização adequada. Utilizamos a propriedade background-image para inserir a imagem, ajustamos o tamanho com background-size, e alinhamos a imagem centralizando-a. Também exploramos detalhes como padding, largura, cor de fundo e arredondamento de borda. Ajustamos a largura da caixa para 800 pixels e corrigimos a soma dos paddings com box-sizing: border-box.
+
+## `AULA 07` *Trabalhando as fontes*
+
+Neste trecho, trabalhamos com a adição de fontes no Figma e no código HTML. Foi mostrado como encontrar e aplicar fontes, além de ajustar propriedades como line height e cores de texto. A fonte "Alice" foi adicionada do Google Fonts e aplicada no CSS. Também foram ajustados tamanhos de fonte para h1 e h2, e definidas cores de texto para diferentes elementos. Ao final, foi feito um commit no Git.
+
+## `AULA 08` *Personalizando espaços*
+
+Neste trecho, trabalhamos com espaços no CSS. Zeramos as margens e preenchimentos, ajustamos os espaços entre elementos como h1, p e ul, e exploramos a definição de line height. Experimentamos diferentes ajustes e discutimos a importância de testar e ajustar conforme necessário. Também abordamos o uso do Git e a importância de adicionar arquivos ao Stage Area antes de confirmar as alterações. A aula focou em personalizar e ajustar espaços no design de uma página web.
