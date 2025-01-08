@@ -5,3 +5,7 @@
 ## Iniciando desafio
 
 Após ler as instruções do desafio vamos iniciar criando os arquivos principais index.html e style.css.
+
+## Finalizado desafio
+
+Após ler as intruções e verificar layout do figma, desafio completado.
