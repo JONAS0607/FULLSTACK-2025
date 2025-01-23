@@ -1,3 +1,5 @@
+<details>
+<summary>Estilos usados no Markdown</summary>
 <style>
   summary {
     font-size: 1.5em;
@@ -8,6 +10,7 @@
     border-radius: 1px;
   }
 </style>
+</details>
 
 # 📚 GIT AULA
 
