@@ -10,3 +10,4 @@ Este repositório contém projetos e exercícios relacionados ao desenvolvimento
 - **🏞️ desafio_pratico-Local_Turistico**: Branch para o desafio prático de local turístico.
 - **📚 git_aula**: Branch para as aulas de Git.
 - **🍲 projeto_receitas**: Branch para o projeto de receitas.
+- **🧳 projeto_travelgran**: Branch para o projeto de travelgran.
