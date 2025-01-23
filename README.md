@@ -169,3 +169,60 @@ Nesta aula, demonstro como usar o GitHub para fazer alterações no projeto sem 
 - `git push`
 
 </details>
+<details>
+<summary>📜 Uso Geral do Git</summary>
+
+```bash
+usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--no-lazy-fetch]
+           [--no-optional-locks] [--no-advice] [--bare] [--git-dir=<path>]
+           [--work-tree=<path>] [--namespace=<name>] [--config-env=<name>=<envvar>]
+           <command> [<args>]
+```
+
+### Comandos Comuns do Git
+
+Estes são comandos comuns do Git usados em várias situações:
+
+#### Iniciar uma Área de Trabalho (ver também: git help tutorial)
+
+- **clone**: Clona um repositório em um novo diretório
+- **init**: Cria um repositório Git vazio ou reinicializa um existente
+
+#### Trabalhar na Mudança Atual (ver também: git help everyday)
+
+- **add**: Adiciona o conteúdo do arquivo ao índice
+- **mv**: Move ou renomeia um arquivo, diretório ou symlink
+- **restore**: Restaura arquivos da árvore de trabalho
+- **rm**: Remove arquivos da árvore de trabalho e do índice
+
+#### Examinar o Histórico e o Estado (ver também: git help revisions)
+
+- **bisect**: Usa pesquisa binária para encontrar o commit que introduziu um bug
+- **diff**: Mostra as alterações entre commits, commit e árvore de trabalho, etc.
+- **grep**: Imprime linhas que correspondem a um padrão
+- **log**: Mostra logs de commits
+- **show**: Mostra vários tipos de objetos
+- **status**: Mostra o status da árvore de trabalho
+
+#### Expandir, Marcar e Ajustar seu Histórico Comum
+
+- **backfill**: Baixa objetos ausentes em um clone parcial
+- **branch**: Lista, cria ou exclui branches
+- **commit**: Registra alterações no repositório
+- **merge**: Junta duas ou mais histórias de desenvolvimento
+- **rebase**: Reaplica commits no topo de outra ponta base
+- **reset**: Redefine o HEAD atual para o estado especificado
+- **switch**: Troca de branches
+- **tag**: Cria, lista, exclui ou verifica um objeto de tag assinado com GPG
+
+#### Colaborar (ver também: git help workflows)
+
+- **fetch**: Baixa objetos e refs de outro repositório
+- **pull**: Busca e integra com outro repositório ou branch local
+- **push**: Atualiza refs remotas junto com objetos associados
+
+'git help -a' e 'git help -g' listam subcomandos disponíveis e alguns guias de conceitos. Veja 'git help <command>' ou 'git help <concept>' para ler sobre um subcomando ou conceito específico. Veja 'git help git' para uma visão geral do sistema.
+
+</details>
