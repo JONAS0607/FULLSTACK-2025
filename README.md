@@ -12,3 +12,4 @@ Este repositório contém projetos e exercícios relacionados ao desenvolvimento
 - **🍲 projeto_receitas**: Branch para o projeto de receitas.
 - **🧳 projeto_travelgran**: Branch para o projeto de travelgran.
 - **📖 projeto_portal_de_noticias**: Branch para o projeto de Portal de Notícias.
+- **📓 projeto_formulario_de_matricula**:Branch para o projeto Formulário de Matrículas.
