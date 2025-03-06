@@ -13,3 +13,7 @@ legend{
   font: 600 1rem/1.25 var(--font-family);
   margin-bottom:1.5rem;
 }
+/* Quado ter um fieldset e um fildeset anterior a ele */
+fieldset + fieldset{
+  margin-top: 3rem;
+}
